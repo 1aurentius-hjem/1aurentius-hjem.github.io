@@ -1,2 +1,3 @@
 # 1aurentius-hjem.github.io
 Coding python 3D models with AI
+Index.html og raster er backup af egne server fra d.d 13-05-2026: kl 15:03 ish...
